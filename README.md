@@ -4,11 +4,10 @@ This repository contains per-session and per-session solution files used as lear
 
 ---
 <br/>
-
 ## Session 1
 
 #### Session 1 folder contains:
-- Jupyter Notebook (.ipynb) with learning material.
+- Jupyter Notebook (`Session1.ipynb`) with learning material.
 - Image files which feed into the session1 .ipynb document.
 
 #### Session 1 solutions folder contains:
@@ -34,7 +33,7 @@ This repository contains per-session and per-session solution files used as lear
 ## Session 2
 
 #### Session 2 folder contains:
-- Jupyter Notebook (.ipynb) with learning material.
+- Jupyter Notebook (`Session2.ipynb`) with learning material.
 - Image files which feed into the session1 .ipynb document.
 - 2 .csv files for pandas related tasks within the session2 learning material.
 
