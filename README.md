@@ -62,12 +62,12 @@ This repository contains per-session and per-session solution files used as lear
 - Python charting libraries
 - Basic statistics (e.g. t-tests and ANOVAs)
 
+<br/>
+
 ---
 
 jodie.lord@kcl.ac.uk
 
 [jodielord.com](https://jodielord.netlify.com/)
 
----
 
-#END
