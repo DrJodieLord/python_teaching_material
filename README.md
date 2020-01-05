@@ -6,15 +6,15 @@ This repository contains per-session and per-session solution files used as lear
 
 ## Session 1
 
-**Session1 folder contains:**
+### Session 1 folder contains:
 - Jupyter Notebook (.ipynb) with learning material.
 - Image files which feed into the session1 .ipynb document.
 
-**Session 1 solutions folder contains:**
+### Session 1 solutions folder contains:
 - Jupyter Notebook (.ipynb) with session 1 solutions included.
 - .hmtl file with content identical to .ipynb, but in read only format.
 
-### Content covered:
+### Session 1 content:
 - Accessing and understanding Python
 - Jupyter basics
 - Variable assignment and types
@@ -29,13 +29,14 @@ This repository contains per-session and per-session solution files used as lear
 
 ---
 
-### Session 2
-**Session2 folder contains:**
+## Session 2
+
+### Session 2 folder contains:
 - Jupyter Notebook (.ipynb) with learning material.
 - Image files which feed into the session1 .ipynb document.
 - 2 .csv files for pandas related tasks within the session2 learning material.
 
-### Content covered:
+### Session 2 content:
 - For loops
 - Python libraries
 - The pandas library
@@ -52,9 +53,9 @@ This repository contains per-session and per-session solution files used as lear
 
 ---
 
-### Session 3
+## Session 3
 
-### Contents (to be) covered:
+### Session 3 content (to be) covered:
 - Python charting libraries
 - Basic statistics (e.g. t-tests and ANOVAs)
 
