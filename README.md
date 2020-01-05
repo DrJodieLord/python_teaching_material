@@ -41,17 +41,20 @@ This repository contains per-session and per-session solution files used as lear
 #### Session 2 content:
 - For loops
 - Python libraries
-- The pandas library
-- Data mining
+- The pandas library, including:
+  * Reading in files
+  * Basic data descriptives
+  * Filtering
+  * Merging
 
 #### Session 2 learning objectives:
 1. Grasp the concept of `loops` and how these can be used to iterate through data
 2. Understand what python libraries are and explore a key data science library: pandas
 3. Become familiar with some key techniques for working with data, e.g.:
-⋅⋅* Merging datasets
-⋅⋅* Working with missing data
-⋅⋅* Filtering and indexing
-⋅⋅* Aggregating data
+  * Merging datasets
+  * Working with missing data
+  * Filtering and indexing
+  * Aggregating data
 
 <br/>
 <br/>
