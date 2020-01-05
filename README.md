@@ -27,7 +27,7 @@ This repository contains per-session and per-session solution files used as lear
 2. Understand and use basic python syntax
 3. Grasp basic data structures
 
----
+
 
 ## Session 2
 
@@ -51,7 +51,7 @@ This repository contains per-session and per-session solution files used as lear
 ⋅⋅* Filtering and indexing
 ⋅⋅* Aggregating data
 
----
+
 
 ## Session 3
 
