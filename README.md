@@ -4,6 +4,7 @@ This repository contains per-session and per-session solution files used as lear
 
 ---
 <br/>
+
 ## Session 1
 
 #### Session 1 folder contains:
