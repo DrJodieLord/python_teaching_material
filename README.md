@@ -2,6 +2,8 @@
 
 This repository contains per-session and per-session solution files used as learning material for the BSc Psychology "Big Data Analytics in Python" mini module, taught by [Jodie Lord](https://github.com/jodielord). 
 
+All material is taught using the [**Jupyter Notebook**](https://jupyter.org/) web application and assumes access via the [**anaconda**](https://docs.anaconda.com/anaconda/install/) python distribution.
+
 ---
 
 
