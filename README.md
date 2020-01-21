@@ -75,18 +75,18 @@ All material is taught using the [**Jupyter Notebook**](https://jupyter.org/) we
 #### Session 3 content:
 - Python charting libraries
 - Tests of normality, including:
- * Skewness
- * Kurtosis
- * Sharipo-wilks
+  * Skewness
+  * Kurtosis
+  * Sharipo-wilks
 - Basic statistics, including:
- * T-tests
- * ANOVA
- * Pearsons correlation
+  * T-tests
+  * ANOVA
+  * Pearsons correlation
  
 #### Session 3 learning objectives:
 1. Explore the world of charting in python via two key charting libraries:
- * MatPlotLib 
- * seaborn 
+  * MatPlotLib 
+  * seaborn 
 2. Learn how to carry out some basic statistics.
 3. Combine learning from charting libraries and statistics to produce meaningful visualisations for statistics produced.
 
