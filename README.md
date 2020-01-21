@@ -37,8 +37,12 @@ All material is taught using the [**Jupyter Notebook**](https://jupyter.org/) we
 
 #### Session 2 folder contains:
 - Jupyter Notebook (`Session2.ipynb`) with learning material.
-- Image files which feed into the session1 .ipynb document.
+- Image files which feed into the session2 .ipynb document.
 - 2 .csv files for pandas related tasks within the session2 learning material.
+
+#### Session 2 solutions folder contains:
+- Jupyter Notebook (.ipynb) with session 2 solutions included.
+- .hmtl file with content identical to .ipynb, but in read only format.
 
 #### Session 2 content:
 - For loops
@@ -63,11 +67,36 @@ All material is taught using the [**Jupyter Notebook**](https://jupyter.org/) we
 
 ## Session 3
 
-#### Session 3 content (to be) covered:
+#### Session 3 folder contains:
+- Jupyter Notebook (`Session3.ipynb`) with learning material.
+- Image files which feed into the session3 .ipynb document.
+- 2 .csv files for pandas and seaborn related tasks.
+
+#### Session 3 content:
 - Python charting libraries
-- Basic statistics (e.g. t-tests and ANOVAs)
+- Tests of normality, including:
+ * Skewness
+ * Kurtosis
+ * Sharipo-wilks
+- Basic statistics, including:
+ * T-tests
+ * ANOVA
+ * Pearsons correlation
+ 
+#### Session 3 learning objectives:
+1. Explore the world of charting in python via two key charting libraries:
+ * MatPlotLib 
+ * seaborn 
+2. Learn how to carry out some basic statistics.
+3. Combine learning from charting libraries and statistics to produce meaningful visualisations for statistics produced.
 
 <br/>
+<br/>
+
+## Session 4
+
+#### Session 4 content (to be) covered:
+- Introduction to machine learning
 
 ---
 
