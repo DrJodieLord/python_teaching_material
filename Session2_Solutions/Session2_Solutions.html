@@ -13427,10 +13427,10 @@ jodie.lord@kcl.ac.uk</em></p>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="c1">#Storing each variable as multiples of 2:</span>
-<span class="k">for</span> <span class="n">variables</span> <span class="ow">in</span> <span class="n">my_list</span><span class="p">:</span>
-    <span class="n">variables</span><span class="o">=</span><span class="n">variables</span><span class="o">*</span><span class="mi">2</span>
-    
-<span class="nb">print</span><span class="p">(</span><span class="n">my_list</span><span class="p">)</span>
+<span class="n">my_new_list</span><span class="o">=</span><span class="p">[</span><span class="n">i</span><span class="o">*</span><span class="mi">2</span> <span class="k">for</span> <span class="n">i</span> <span class="ow">in</span> <span class="n">my_list</span><span class="p">]</span>
+
+<span class="c1">#printing my new saved list into console:</span>
+<span class="nb">print</span><span class="p">(</span><span class="n">my_new_list</span><span class="p">)</span>
 </pre></div>
 
     </div>
