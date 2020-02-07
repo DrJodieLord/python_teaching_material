@@ -72,6 +72,10 @@ All material is taught using the [**Jupyter Notebook**](https://jupyter.org/) we
 - Image files which feed into the session3 .ipynb document.
 - 2 .csv files for pandas and seaborn related tasks.
 
+#### Session 3 solutions folder contains:
+- Jupyter Notebook (.ipynb) with session 3 solutions included.
+- .hmtl file with content identical to .ipynb, but in read only format.
+
 #### Session 3 content:
 - Python charting libraries
 - Tests of normality, including:
