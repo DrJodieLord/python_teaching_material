@@ -99,8 +99,9 @@ All material is taught using the [**Jupyter Notebook**](https://jupyter.org/) we
 
 ## Session 4
 
-#### Session 4 content (to be) covered:
+#### Session 4 content:
 - Introduction to machine learning
+- Recap of exercises and topics covered over the 4 weeks
 
 ---
 
