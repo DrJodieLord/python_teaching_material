@@ -107,8 +107,8 @@ All material is taught using the [**Jupyter Notebook**](https://jupyter.org/) we
 
 #### Session 4 content:
 - Introduction to machine learning with application in:
- * Random Forest
- * K nearest neighbours
+  * Random Forest
+  * K nearest neighbours
 - Recap of exercises and topics covered over the 4 weeks
 
 #### Session 4 learning objectives:
