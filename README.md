@@ -116,6 +116,16 @@ All material is taught using the [**Jupyter Notebook**](https://jupyter.org/) we
 2. Learn some (basic) machine learning techniques.
 3. Consolidate what we've learnt over the last 4 weeks.
 
+<br/>
+<br/>
+
+## EXTRA 
+
+#### Extra help documentation:
+1. **EXTRA_RESOURCES.pdf** - contains:
+  * Clarification with examples for FAQs / common confusion points expressed in f2f workshops 
+  * Extra resources to aid additional learning.
+
 ---
 
 jodie.lord@kcl.ac.uk
