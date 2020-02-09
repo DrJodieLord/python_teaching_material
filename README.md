@@ -122,7 +122,7 @@ All material is taught using the [**Jupyter Notebook**](https://jupyter.org/) we
 ## EXTRA 
 
 #### Extra help documentation:
-1. **EXTRA_RESOURCES.pdf** - contains:
+- **EXTRA_RESOURCES.pdf** - contains:
   * Clarification with examples for FAQs / common confusion points expressed in f2f workshops 
   * Extra resources to aid additional learning.
 
