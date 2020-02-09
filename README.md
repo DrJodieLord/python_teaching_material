@@ -99,9 +99,22 @@ All material is taught using the [**Jupyter Notebook**](https://jupyter.org/) we
 
 ## Session 4
 
+#### Session 4 folder contains:
+- Jupyter Notebook (`Session4.ipynb`) with learning material.
+- Image folder which contains images which feed into the session4 .ipynb document.
+- 1 .csv file for charting and analytics revision tasks
+- 1 .xls file for machine learning tasks.
+
 #### Session 4 content:
-- Introduction to machine learning
+- Introduction to machine learning with application in:
+  * Random Forest
+  * K nearest neighbours
 - Recap of exercises and topics covered over the 4 weeks
+
+#### Session 4 learning objectives:
+1. Grasp the basic concept of machine learning.
+2. Learn some (basic) machine learning techniques.
+3. Consolidate what we've learnt over the last 4 weeks.
 
 ---
 
