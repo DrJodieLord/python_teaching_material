@@ -125,6 +125,10 @@ All material is taught using the [**Jupyter Notebook**](https://jupyter.org/) we
 - **EXTRA_RESOURCES.pdf** - contains:
   * Clarification with examples for FAQs / common confusion points expressed in f2f workshops 
   * Extra resources to aid additional learning.
+  
+- **Revision_Exercises_2020** - contains:
+  * A .ipynb file with revision exercises for topics covered across the 4 session materials.
+  * Two data files and one image file which feed into tasks set within the revision exercises material.
 
 ---
 
