@@ -6,7 +6,7 @@ All material is taught using the [**Jupyter Notebook**](https://jupyter.org/) we
 
 Files can be downloaded for local use using the clone or download toggle at the top of the repository.
 
-All content has been produced and taught by [Jodie Lord](https://jodielord.netlify.com/), with thanks to [Becki Green](https://twitter.com/becki_e_green) and [Sagar Jilka](https://twitter.com/DrSagarJilka), King's College London.
+All content has been produced and taught by [Jodie Lord](https://jodielord.netlify.com/). With thanks to [Becki Green](https://twitter.com/becki_e_green) and [Sagar Jilka](https://twitter.com/DrSagarJilka), King's College London.
 
 ---
 
