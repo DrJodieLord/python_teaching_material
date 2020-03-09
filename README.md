@@ -1,4 +1,4 @@
-# BSc Python Teaching Material
+# Python Teaching Material
 
 This repository contains per-session and per-session solution files used as learning material for the BSc Psychology "Big Data Analytics in Python" mini module. 
 
