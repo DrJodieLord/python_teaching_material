@@ -4,8 +4,9 @@ This repository contains per-session and per-session solution files used as lear
 
 All material is taught using the [**Jupyter Notebook**](https://jupyter.org/) web application and assumes access via the [**anaconda**](https://docs.anaconda.com/anaconda/install/) python distribution.
 
+Files can be downloaded for local use using the clone or download toggle at the top of the repository.
 
-All material produced and taught by [Jodie Lord](https://jodielord.netlify.com/), with thanks to [Becki Green](https://twitter.com/becki_e_green) and [Sagar Jilka](https://twitter.com/DrSagarJilka), King's College London.
+All content has been produced and taught by [Jodie Lord](https://jodielord.netlify.com/), with thanks to [Becki Green](https://twitter.com/becki_e_green) and [Sagar Jilka](https://twitter.com/DrSagarJilka), King's College London.
 
 ---
 
