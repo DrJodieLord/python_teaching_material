@@ -1,8 +1,12 @@
-# BSc Python Teaching Material
+# Python Teaching Material
 
 This repository contains per-session and per-session solution files used as learning material for the BSc Psychology "Big Data Analytics in Python" mini module. 
 
 All material is taught using the [**Jupyter Notebook**](https://jupyter.org/) web application and assumes access via the [**anaconda**](https://docs.anaconda.com/anaconda/install/) python distribution.
+
+Files can be downloaded for local use using the clone or download toggle at the top of the repository.
+
+All content has been produced and taught by [Jodie Lord](https://jodielord.netlify.com/). With thanks to [Becki Green](https://twitter.com/becki_e_green) and [Sagar Jilka](https://twitter.com/DrSagarJilka), King's College London.
 
 ---
 
@@ -10,11 +14,11 @@ All material is taught using the [**Jupyter Notebook**](https://jupyter.org/) we
 ## Session 1
 
 #### Session 1 folder contains:
-- Jupyter Notebook (`Session1.ipynb`) with learning material.
+- Jupyter Notebook ([Session1.ipynb](https://github.com/jodielord/python_teaching_material/blob/master/Session1/session1.ipynb)) with learning material.
 - Image files which feed into the session1 .ipynb document.
 
 #### Session 1 solutions folder contains:
-- Jupyter Notebook (.ipynb) with session 1 solutions included.
+- Jupyter Notebook ([session1_solutions.ipynb](https://github.com/jodielord/python_teaching_material/blob/master/Session1_Solutions/session1_solutions.ipynb)) with session 1 solutions included.
 - .hmtl file with content identical to .ipynb, but in read only format.
 
 #### Session 1 content:
@@ -36,12 +40,12 @@ All material is taught using the [**Jupyter Notebook**](https://jupyter.org/) we
 ## Session 2
 
 #### Session 2 folder contains:
-- Jupyter Notebook (`Session2.ipynb`) with learning material.
+- Jupyter Notebook ([Session2.ipynb](https://github.com/jodielord/python_teaching_material/blob/master/Session2/Session2.ipynb)) with learning material.
 - Image files which feed into the session2 .ipynb document.
 - 2 .csv files for pandas related tasks within the session2 learning material.
 
 #### Session 2 solutions folder contains:
-- Jupyter Notebook (.ipynb) with session 2 solutions included.
+- Jupyter Notebook ([Session2_Solutions.ipynb](https://github.com/jodielord/python_teaching_material/blob/master/Session2_Solutions/Session2_Solutions.ipynb)) with session 2 solutions included.
 - .hmtl file with content identical to .ipynb, but in read only format.
 
 #### Session 2 content:
@@ -68,12 +72,12 @@ All material is taught using the [**Jupyter Notebook**](https://jupyter.org/) we
 ## Session 3
 
 #### Session 3 folder contains:
-- Jupyter Notebook (`Session3.ipynb`) with learning material.
+- Jupyter Notebook ([Session3.ipynb](https://github.com/jodielord/python_teaching_material/blob/master/Session3/Session3.ipynb)) with learning material.
 - Image files which feed into the session3 .ipynb document.
 - 2 .csv files for pandas and seaborn related tasks.
 
 #### Session 3 solutions folder contains:
-- Jupyter Notebook (.ipynb) with session 3 solutions included.
+- Jupyter Notebook ([Session3_Solutions.ipynb](https://github.com/jodielord/python_teaching_material/blob/master/Session3_Solutions/Session3_Solutions.ipynb)) with session 3 solutions included.
 - .hmtl file with content identical to .ipynb, but in read only format.
 
 #### Session 3 content:
@@ -100,10 +104,15 @@ All material is taught using the [**Jupyter Notebook**](https://jupyter.org/) we
 ## Session 4
 
 #### Session 4 folder contains:
-- Jupyter Notebook (`Session4.ipynb`) with learning material.
+- Jupyter Notebook ([Session4.ipynb](https://github.com/jodielord/python_teaching_material/blob/master/Session4/Session4.ipynb)) with learning material.
 - Image folder which contains images which feed into the session4 .ipynb document.
 - 1 .csv file for charting and analytics revision tasks
 - 1 .xls file for machine learning tasks.
+
+#### Session 4 solutions folder contains:
+- Jupyter Notebook ([Session4_Solutions.ipynb](https://github.com/jodielord/python_teaching_material/blob/master/Session4_Solutions/Session4_Solutions.ipynb)) with session 3 solutions included.
+- .hmtl file with content identical to .ipynb, but in read only format.
+- Image folder which contains images which feed into the session4 .ipynb document.
 
 #### Session 4 content:
 - Introduction to machine learning with application in:
@@ -122,12 +131,12 @@ All material is taught using the [**Jupyter Notebook**](https://jupyter.org/) we
 ## EXTRA 
 
 #### Extra help documentation:
-- **EXTRA_RESOURCES.pdf** - contains:
+- [**EXTRA_RESOURCES.pdf**](https://github.com/jodielord/python_teaching_material/blob/master/EXTRA_RESOURCES.pdf) - contains:
   * Clarification with examples for FAQs / common confusion points expressed in f2f workshops 
   * Extra resources to aid additional learning.
   
 - **Revision_Exercises_2020** - contains:
-  * A .ipynb file with revision exercises for topics covered across the 4 session materials.
+  * A [.ipynb file](https://github.com/jodielord/python_teaching_material/blob/master/Revision_Exercises_2020/revision_exercises_2020.ipynb) with revision exercises for topics covered across the 4 session materials.
   * Two data files and one image file which feed into tasks set within the revision exercises material.
 
 ---
