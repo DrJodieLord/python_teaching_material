@@ -95,7 +95,7 @@ All content has been produced and taught by [Jodie Lord](https://jodielord.netli
 1. Explore the world of charting in python via two key charting libraries:
   * MatPlotLib 
   * seaborn 
-2. Learn how to carry out some basic statistics.
+2. Learn how to carry out some basic statistics to allow for data exploration.
 3. Combine learning from charting libraries and statistics to produce meaningful visualisations for statistics produced.
 
 <br/>
